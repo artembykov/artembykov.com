@@ -4,9 +4,9 @@ https://keybase.io/artembykov
 
 I hereby claim:
 
-  * I am an admin of https://temabykov.com
+  * I am an admin of https://artembykov.com
   * I am artembykov (https://keybase.io/artembykov) on keybase.
-  * I have a public key ASCHn6D1UyAlwkkklTaP188E0_7O2pSOT3ovyqKyn7e3Ngo
+  * I have a public key ASCGaehmaoY9rqV9B2rzgrmYOWF2iH6cgoJIBIPojhIiKgo
 
 To do so, I am signing this object:
 
@@ -15,37 +15,38 @@ To do so, I am signing this object:
     "key": {
       "eldest_kid": "0120879fa0f5532025c2492495368fd7cf04d3feceda948e4f7a2fcaa2b29fb7b7360a",
       "host": "keybase.io",
-      "kid": "0120879fa0f5532025c2492495368fd7cf04d3feceda948e4f7a2fcaa2b29fb7b7360a",
+      "kid": "01208669e8666a863daea57d076af382b998396176887e9c8282480483e88e12222a0a",
       "uid": "439d65b2fc4047274f6f54858857d619",
       "username": "artembykov"
     },
     "merkle_root": {
-      "ctime": 1508078746,
-      "hash": "505df2e679b776b2cb3d3c483df5ec07a12c1169ad9a74c1e5e719fa57dee71b9f65f51711a2bfb618a9faa522adb44fb4a8cb92e30da650dd2fdaaf16716393",
-      "hash_meta": "47b46aee213044e4a8ec8daedcaabedd868acd0eb16356824060a5d1b9519b48",
-      "seqno": 1580954
+      "ctime": 1568497835,
+      "hash": "226e2995fa979ead9885d6e55bd67f557d8feded5a1d2cb559a99228e3ab0d933af6536a5340d021eec979bd0ea027e82cbe6c71bf084db7603a94387330cba9",
+      "hash_meta": "104886ea7c56d001ed68f5a27bdf3f16c2828e5cf185935909d76ee70fbd99c6",
+      "seqno": 7352259
     },
     "service": {
-      "hostname": "temabykov.com",
+      "entropy": "kdpxqU9HAoIKs2GSQSU8Iq89",
+      "hostname": "artembykov.com",
       "protocol": "https:"
     },
     "type": "web_service_binding",
-    "version": 1
+    "version": 2
   },
   "client": {
     "name": "keybase.io go client",
-    "version": "1.0.33"
+    "version": "4.4.2"
   },
-  "ctime": 1508078768,
+  "ctime": 1568497846,
   "expire_in": 504576000,
-  "prev": "c0cfc16b3686a8ab2f09bf1a16552add54383f33d1e486eac8cfb03767795195",
-  "seqno": 12,
+  "prev": "8ef7dc292516fbdc5cb1cdaa2da40729004374d75fc065f5a8ea0cc886a79ec6",
+  "seqno": 51,
   "tag": "signature"
 }
 
 which yields the signature:
 
-hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgh5+g9VMgJcJJJJU2j9fPBNP+ztqUjk96L8qisp+3tzYKp3BheWxvYWTFA0h7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwODc5ZmEwZjU1MzIwMjVjMjQ5MjQ5NTM2OGZkN2NmMDRkM2ZlY2VkYTk0OGU0ZjdhMmZjYWEyYjI5ZmI3YjczNjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwODc5ZmEwZjU1MzIwMjVjMjQ5MjQ5NTM2OGZkN2NmMDRkM2ZlY2VkYTk0OGU0ZjdhMmZjYWEyYjI5ZmI3YjczNjBhIiwidWlkIjoiNDM5ZDY1YjJmYzQwNDcyNzRmNmY1NDg1ODg1N2Q2MTkiLCJ1c2VybmFtZSI6ImFydGVtYnlrb3YifSwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE1MDgwNzg3NDYsImhhc2giOiI1MDVkZjJlNjc5Yjc3NmIyY2IzZDNjNDgzZGY1ZWMwN2ExMmMxMTY5YWQ5YTc0YzFlNWU3MTlmYTU3ZGVlNzFiOWY2NWY1MTcxMWEyYmZiNjE4YTlmYWE1MjJhZGI0NGZiNGE4Y2I5MmUzMGRhNjUwZGQyZmRhYWYxNjcxNjM5MyIsImhhc2hfbWV0YSI6IjQ3YjQ2YWVlMjEzMDQ0ZTRhOGVjOGRhZWRjYWFiZWRkODY4YWNkMGViMTYzNTY4MjQwNjBhNWQxYjk1MTliNDgiLCJzZXFubyI6MTU4MDk1NH0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJ0ZW1hYnlrb3YuY29tIiwicHJvdG9jb2wiOiJodHRwczoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMzMifSwiY3RpbWUiOjE1MDgwNzg3NjgsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJwcmV2IjoiYzBjZmMxNmIzNjg2YThhYjJmMDliZjFhMTY1NTJhZGQ1NDM4M2YzM2QxZTQ4NmVhYzhjZmIwMzc2Nzc5NTE5NSIsInNlcW5vIjoxMiwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEAGcRYUlaTKu7Q8LFRd+zR7Y66c/aH/GPIwVKjskd7bKFKPO98EVtdpiciLplOMnO+9ZYd4wSVeYvsmdPcAGIkLqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQglhCgPz+B581Zid5gBPG9SBrnh7fgDsbX90aBJv+G4xajdGFnzQICp3ZlcnNpb24B
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEghmnoZmqGPa6lfQdq84K5mDlhdoh+nIKCSASD6I4SIioKp3BheWxvYWTESpcCM8QgjvfcKSUW+9xcsc2qLaQHKQBDdNdfwGX1qOoMyIannsbEIIiGZ6ukd/SdlhyTRN9ueVwkZcGS965HKta7g3/U3pnWAgHCo3NpZ8RAMciuSwdtF/l3YSDJv3t9lTxA0fR/5KMx8jxtTEy6ZERnX48ZWgs5mSxRXusmthbXRDDxjEihIkpWdbX8cHEiCKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIHl9MIXtlK8bX9Dlaj3xy0CI7kM3j8aFgiZEjHsEI4cmo3RhZ80CAqd2ZXJzaW9uAQ==
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
